@@ -41,4 +41,4 @@ writing it by himself or using AI text generator to help him correcting grammar 
 terminology or writing the full description. By clicking on the button 
 "انشاء الوصف بالذكاء الاصطناعي"
 the admin enters a clear prompt of what he needs then the Ai text generator will 
-respond to his query.
+respond to his query. See an example with the image uploaded "CHATGPT API" for more clarification.
